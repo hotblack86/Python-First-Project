@@ -3,7 +3,7 @@ my_project
 ==========
 
 
-Add a short description here!
+First Project in Python
 
 
 Description
